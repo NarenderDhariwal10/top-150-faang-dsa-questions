@@ -30,7 +30,7 @@ class Solution {
         for (int num : nums2) {
             while (!stack.isEmpty() && num > stack.peek()) {
                 nextGreaterMap.put(stack.pop(), num);
-            }
+            }                          
             stack.push(num);
         }
 
