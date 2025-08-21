@@ -65,5 +65,5 @@ class Solution {
 
 🛠️ Time Complexity: O(n) – n = length of s2 (constant array compare takes O(26) = O(1))
 🛠️ Space Complexity: O(1) – fixed size arrays
-✅ Status: Ready to push — file name: 567_PermutationInString.java
+✅ Status: Accepted on LeetCode
 */

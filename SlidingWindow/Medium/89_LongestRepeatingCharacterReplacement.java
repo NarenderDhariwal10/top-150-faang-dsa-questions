@@ -53,5 +53,5 @@ class Solution {
 
 🛠️ Time Complexity: O(n) – each char is processed at most twice.
 🛠️ Space Complexity: O(1) – fixed array of size 26.
-✅ Status: Ready to push — file name: 424_LongestRepeatingCharacterReplacement.java
+✅ Status: Accepted on LeetCode
 */

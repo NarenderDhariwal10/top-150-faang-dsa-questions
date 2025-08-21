@@ -51,5 +51,5 @@ class Solution {
 
 🛠️ Time Complexity: O(k) – we only iterate over at most `k` elements twice.
 🛠️ Space Complexity: O(1) – constant extra space.
-✅ Status: Ready to push — file name: 1423_MaximumPointsYouCanObtainFromCards.java
+✅ Status: Accepted on LeetCode
 */
