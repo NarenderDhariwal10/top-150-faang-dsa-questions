@@ -44,6 +44,7 @@ This is my complete journey to mastering the **150 most frequently asked coding 
 | Dynamic Programming | 15         |
 | Graphs           | 10             |
 | Tries            | 5              |
+| Bit Manipulation | 5              |
 
 ## 💼 Companywise Relevance
      🟧 Amazon – 90+
